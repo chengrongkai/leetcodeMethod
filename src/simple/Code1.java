@@ -1,4 +1,4 @@
-package code_1;
+package simple;
 
 /**
  * @Author: 程荣凯
