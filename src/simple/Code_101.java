@@ -53,6 +53,7 @@ public class Code_101 {
         // init deques
         ArrayDeque<TreeNode> deqP = new ArrayDeque<TreeNode>();
         ArrayDeque<TreeNode> deqQ = new ArrayDeque<TreeNode>();
+
         deqP.addLast(p);
         deqQ.addLast(q);
         while (!deqP.isEmpty()) {
